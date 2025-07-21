@@ -1,0 +1,93 @@
+.question-page-title-ans{
+    font-weight: 600;
+    font-size: 40px;
+    padding: 20px;
+    display: inline-block;
+}
+.single-ans {
+
+    width: 40%;
+    height: auto;
+    background-color: #fcfcfc;
+    border-radius: 20px;
+    padding: 30px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .individual-qs-title-ans{
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 5px;
+    display: inline;
+    text-align: left;
+}   
+.single-ans p {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: left;
+  }
+  .asked-by{
+    font-size: 15px !important;
+  }
+  .tags-answers{
+    font-size: 13px !important;
+  }
+  .answers-heading{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    display: flex; 
+    text-align: left;
+    font-weight: 600;
+  }
+  .reply-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  .rep-box{
+    width: 400px;
+    height: 60px;
+    border-radius: 4px;
+  }
+  .ed-box{
+    width: 50%;
+    height: 100px;
+  }
+  .reply-btn{
+    margin-top: 1%;
+  }
+  .edit-box{
+    margin-left: 5%;
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .edit-ans-button{
+    background-color: rgb(43, 51, 138);
+    margin-right: 10px;
+    font-size: 15px;
+    height: 35px;
+    width: fit-content;
+    border-radius: 5px
+  }
+  .delete-ans-button{
+    background-color: rgb(196 13 0);
+    margin-right: 10px;
+    font-size: 15px;
+    height: 35px;  
+    width: fit-content;
+    border-radius: 5px
+  }
+  .edit-button{
+    margin-right: 10px;
+    font-size: 20px;
+    height: 40px;
+    width: fit-content;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
